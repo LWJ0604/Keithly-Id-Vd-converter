@@ -1,4 +1,9 @@
 # Keithly-Id-Vd-converter
+
+[최신 릴리스 및 첨부 파일](https://github.com/LWJ0604/Keithly-Id-Vd-converter/releases/latest)
+
+배포 파일은 릴리스의 **Assets**에서 내려받으세요.
+
 # Keithley I-V Reshaper 사용법
 
 v1.1은 Python 3.7 이상을 지원합니다. Python 버전에 맞춰 pandas/numpy/openpyxl 버전을 자동 선택합니다.
