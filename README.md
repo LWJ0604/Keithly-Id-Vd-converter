@@ -1,6 +1,5 @@
 # Keithly-Id-Vd-converter
 # Keithley I-V Reshaper 사용법
-## Python 3.7 설치 오류 수정 (v1.1)
 
 v1.1은 Python 3.7 이상을 지원합니다. Python 버전에 맞춰 pandas/numpy/openpyxl 버전을 자동 선택합니다.
 
